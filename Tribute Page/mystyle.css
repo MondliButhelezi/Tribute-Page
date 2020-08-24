@@ -1,0 +1,40 @@
+html {
+  font-size: 22px;
+}
+
+#image {
+  width: 100%;
+  height: auto;
+  border: 1px blue solid;
+}
+
+#title {
+  font-family: Roboto, elvetica Neue;
+  text-align: center;
+  font: normal normal medium 70px/85px Roboto;
+  letter-spacing: 0px;
+  color: #6b6a6a;
+  opacity: 1;
+}
+
+.container {
+  position: relative;
+  color: white;
+  border: 1px red solid;
+}
+.top-left {
+  position: absolute;
+  top: 295px;
+  left: 398px;
+  border: 1px green solid;
+  max-width: 622px;
+  position: absolute;
+}
+
+#img-caption {
+  text-align: center;
+  font: italic normal 300 50px/61px Roboto;
+  letter-spacing: 0px;
+  color: #d6d6c7;
+  opacity: 1;
+}
